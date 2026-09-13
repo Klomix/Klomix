@@ -27,9 +27,8 @@ I'm a developer from Poland focused on building desktop applications for Linux a
 > *Stack: C++ / Qt*
 
 ---
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klomix&show_icons=true&theme=dark&hide_border=true" alt="Klomix's GitHub stats" />
+  <a href="https://github.com/Klomix">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=I+use+Arch+btw+%F0%9F%90%A7;Actually%2C+I+use+Arch...;...btw" alt="Typing SVG" />
+  </a>
 </p>
