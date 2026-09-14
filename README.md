@@ -26,7 +26,9 @@ I'm a developer from Poland focused on building desktop applications for Linux a
 > GUI backup utility for Linux.
 > *Stack: C++ / Qt*
 
----
+## 🗺️ Roadmap
+See the project board: [Klomimory Roadmap](https://github.com/users/Klomix/projects/1)
+
 <p align="center">
   <a href="https://github.com/Klomix">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=I+use+Arch+btw+%F0%9F%90%A7;Actually%2C+I+use+Arch...;...btw" alt="Typing SVG" />
